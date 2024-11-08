@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "490738559696",
+    "project_id": "umgpcauth",
+    "storage_bucket": "umgpcauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490738559696:android:e3c5efac9837fbfd598cd5",
+        "android_client_info": {
+          "package_name": "com.example.mydemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBQ5OYHo6bd1eHhSwlfUbNCOM2WIyaeww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490738559696:android:c61d1f50010354d2598cd5",
+        "android_client_info": {
+          "package_name": "com.pc.miapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBQ5OYHo6bd1eHhSwlfUbNCOM2WIyaeww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
